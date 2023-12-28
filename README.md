@@ -2,7 +2,7 @@
 
 Este é um projeto de calculadora de Índice de Massa Corporal (IMC) criado com o objetivo de praticar os conceitos fundamentais de manipulação do Document Object Model (DOM) usando JavaScript Vanilla. Foi desenvolvido como parte do meu aprendizado inicial em programação.
 
-Link do Projeto(https://lucasfneves.github.io/desafio-calculadoraIMC-fundamentos-js/)
+[Link do Projeto](https://lucasfneves.github.io/desafio-calculadoraIMC-fundamentos-js/)
  
 ### Tecnologias Utilizadas
 - JavaScript
